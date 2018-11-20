@@ -11,8 +11,7 @@ nav{
 ul{
     width: 80%;
     margin-left: 18%;
-    margin-bottom: 5px;
-    
+    margin-bottom: 5px;   
 }
 li {
     display: inline-block;
@@ -20,8 +19,6 @@ li {
     text-align: center;
     width: 20%;
 }
-
-
 table{
     margin-left: 100px;
     margin-bottom: 30px;
@@ -33,11 +30,10 @@ table{
 .pequeño{
     vertical-align: top;
     padding-left: 15%;
-    
+    width: 300px;
 }
 .pequeño img{
-    width: 120px;
-    
+    width: 120px;   
 }
 article{
     width:70%;
@@ -54,16 +50,15 @@ li:hover{
 .local{
     margin-left: 400px;
     margin-bottom: 30px;
-   
 }
 .pequeño2{
     vertical-align: top;
     margin-left: 68px;
-    padding-left: 30%;
+    padding-left: 35%;
+    width: 200px;
 }
 .pequeño2 img{
     width: 120px;
-    
 }
 .port{
     margin-left: 0px;
@@ -74,15 +69,17 @@ li:hover{
     padding: 0px;
 }
 iframe .web{
-    width: 200px;
+    width: 180px;
 }
 .pequeño3{
     vertical-align: top;
-    padding-left: 15%;
+    padding-left: 10%;
+    width: 200px;
 }
 .pequeño3 img{
     width: 120px;
 }
+
 h1{
     text-align: center;
 }
